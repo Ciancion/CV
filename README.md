@@ -2,21 +2,13 @@
 --------------------------
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [LINKEDIN](https://www.linkedin.com/in/valentina-romeo-35b30460/)
 
-After 6 years focusing in mechanical engineering and developing hardware components, I have decided to move my interest in software engineering, which I have always been fascinated by. I am passionate in building things and make them work and coding gives me the chance to do that only using a keyboard and my skills.
+After 6 years focusing in mechanical engineering and developing hardware components, I have decided to move my interest in software development, which I have always been fascinated by.
 
-I just finished 12 intensive training weeks at [Makers Academy](https://github.com/makersacademy), and I believe I have made the best choice discovering a new passion for coding.
+I am looking for a different career, in something that can leverage my will to learn and discover but without renouncing my passion in tech. For this reason I enjoy software development and I believe it is the right choice for me.
+
+I have just finished 12 intensive training weeks at [Makers Academy](https://github.com/makersacademy), and I am ready to work in a company that offers exciting challenges and believes in training and innovation.
 
 ## Skills
-
-#### Projects
-
-| Project | Description | Technologies used | Testing framework |
-| ------ |  ------ |  ------ |  ------ |
-| [PosterPop](https://github.com/Ciancion/posterpop) | Final group project at Makers Academy (group). Posterpop! is a Progressive Web App that uses text recognition to allow the user to photograph an event / exhibition poster and be redirected to its booking page. To read more about the project and its journey visit the [blog](https://medium.com/@team_processive). You can also view a demo of the application [here](https://www.youtube.com/watch?v=9GgNUaxrOFU) | Backend: Node.js, Google Vision API, Google Firebase. Frontend: JavaScript, Vue2.js, Bootstrap-Vue | Testing: Karma, Mocha, Nightwatch, Lighthouse |
-|[Tic-Tac-Toe](https://github.com/Ciancion/tic-tac-toe) | Tic-Tac-Toe is a game that can be played with any kind of square tables (solo challenge) | JavaScript | Jasmine|
-|[Gilded Rose](https://github.com/Ciancion/GildedRose-Refactoring-Ruby)| This is a refactoring challenge in which I untangle a blob of spaghetti code difficult to read and to understand (solo challenge)| Ruby | RSpec  
-|[RPS](https://github.com/Ciancion/rps-challenge)| A multi players game of Rock, Paper, Scissors (solo challenge) | Ruby, Sinatra, Selenium-webdriver | RSpec, Capybara |
-
 
 #### Communication
 
@@ -32,6 +24,15 @@ In the team projects at Makers, I have practised my Agile skills with productive
 #### Problem Solving
 
 I have an analytical and creative approach in identifying solutions to problems. I like being flexible and open to other people opinions, ready to change approach if a better solution is presented.
+
+#### Projects
+
+| Project | Description | Technologies used | Testing framework |
+| ------ |  ------ |  ------ |  ------ |
+| [PosterPop](https://github.com/Ciancion/posterpop) | Final group project at Makers Academy (group). Posterpop! is a Progressive Web App that uses text recognition to allow the user to photograph an event / exhibition poster and be redirected to its booking page. To read more about the project and its journey visit the [blog](https://medium.com/@team_processive). You can also view a demo of the application [here](https://www.youtube.com/watch?v=9GgNUaxrOFU) | Backend: Node.js, Google Vision API, Google Firebase. Frontend: JavaScript, Vue2.js, Bootstrap-Vue | Testing: Karma, Mocha, Nightwatch, Lighthouse |
+|[Tic-Tac-Toe](https://github.com/Ciancion/tic-tac-toe) | Tic-Tac-Toe is a game that can be played with any kind of square tables (solo challenge) | JavaScript | Jasmine|
+|[Gilded Rose](https://github.com/Ciancion/GildedRose-Refactoring-Ruby)| This is a refactoring challenge in which I untangle a blob of spaghetti code difficult to read and to understand (solo challenge)| Ruby | RSpec  
+|[RPS](https://github.com/Ciancion/rps-challenge)| A multi players game of Rock, Paper, Scissors (solo challenge) | Ruby, Sinatra, Selenium-webdriver | RSpec, Capybara |
 
 ## Education
 
